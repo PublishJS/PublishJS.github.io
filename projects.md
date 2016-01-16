@@ -14,7 +14,7 @@ category-list:      [typography, epub, interactive, charts]
     {% if page.projects == true %}
       {% for pc in page.categories %}
         {% if pc == cat %}
-          <li><a href="{{ page.url  }}">{{ page.title  }} - <small>{{ page.description }}</small></a></li>
+          <li><a href="{{ page.url  }}">{{ page.title  }}</a> - <small>{{ page.description }}</small></li>
         {% endif %}   <!-- cat-match-p -->
       {% endfor %}  <!-- page-category -->
     {% endif %}   <!-- projects-p -->
