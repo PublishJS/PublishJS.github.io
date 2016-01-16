@@ -8,7 +8,7 @@ relative_permalinks: true
 title:               PublishJS
 tagline:             JavaScripts for Publishing
 url:                 http://www.publishjs.io
-paginate:            1
+paginate:            10
 baseurl:             ""
 
 # Assets
