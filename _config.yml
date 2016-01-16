@@ -11,6 +11,10 @@ url:                 http://www.publishjs.io
 paginate:            10
 baseurl:             ""
 
+#categories
+category-list:      [typography, epub, interactive, charts]
+
+
 # Assets
 #
 # We specify the directory for Jekyll so we can use @imports.

@@ -1,0 +1,23 @@
+---
+layout: page
+title: Projects
+category-list:      [typography, epub, interactive, charts]
+---
+
+<p class="message">
+  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+</p>
+{% for cat in site.category-list %}
+### {{ cat  }}
+<ul>
+  {% for page in site.pages %}
+    {% if page.projects == true %}
+      {% for pc in page.categories %}
+        {% if pc == cat %}
+          <li><a href="{{ page.url  }}">{{ page.title  }}</a></li>
+        {% endif %}   <!-- cat-match-p -->
+      {% endfor %}  <!-- page-category -->
+    {% endif %}   <!-- projects-p -->
+  {% endfor %}  <!-- page -->
+</ul>
+{% endfor %}  <!-- cat -->
