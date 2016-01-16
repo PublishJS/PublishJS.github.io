@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to Contribute?
+tags: [about]
 ---
 
 Clone the PublishJS repo [https://github.com/PublishJS/PublishJS.github.io](https://github.com/PublishJS/PublishJS.github.io):
