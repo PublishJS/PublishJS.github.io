@@ -6,4 +6,4 @@ categories: [typography, epub]
 ---
 
 hiya! test
-[demo](test-demo)
+[demo](./test-demo)
