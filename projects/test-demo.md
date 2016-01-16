@@ -1,9 +1,8 @@
 ---
 layout: page
-projects: true
-title: test1
+demo: true
+title: test1 demo
 categories: [typography, epub]
 ---
 
 hiya! test
-[demo](test-demo)
