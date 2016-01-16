@@ -1,7 +1,7 @@
 ---
-projects: true
 layout: page
-category-list:      [typography, epub, interactive, charts]
+projects: true
+category-list:      [typography, epub]
 ---
 
 hiya! test
