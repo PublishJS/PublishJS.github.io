@@ -2,7 +2,7 @@
 layout: page
 projects: true
 title: Sweet Justice
-description: something about the project
+description: ummm
 categories: [hyphenation]
 ---
 
