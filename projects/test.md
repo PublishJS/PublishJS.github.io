@@ -2,7 +2,7 @@
 layout: page
 projects: true
 title: test1
-categories:      [typography, epub]
+categories: [typography, epub]
 ---
 
 hiya! test
