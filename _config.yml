@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               PublishJS
+tagline:             JavaScripts for Publishing
+url:                 http://www.publishjs.io
 paginate:            1
 baseurl:             ""
 
@@ -20,9 +20,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Adam Hyde
+  url:               http://www.adamhyde.net
+  email:             adam@booksprints.net
 
 # Custom vars
 version:             2.0.0
