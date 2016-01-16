@@ -12,7 +12,7 @@ paginate:            10
 baseurl:             ""
 
 #categories
-category-list:      [hyphenaion, typography, epub, interactive, charts]
+category-list:      [hyphenation, typography, epub, interactive, charts]
 
 
 # Assets
