@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-category-list:      [typography, epub, interactive, charts]
+category-list:      [hyphenation, typography, epub, interactive, charts]
 ---
 
 <p class="message">

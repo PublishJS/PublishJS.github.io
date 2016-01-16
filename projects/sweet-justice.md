@@ -1,10 +1,17 @@
 ---
 layout: page
 projects: true
-title: test1
+title: Sweet Justice
 description: something about the project
-categories: [typography, epub]
+categories: [hyphenation]
 ---
 
 hiya! test
-[demo](test-demo.md)
+
+Sweet Justice 
+License: BSD 
+Code: https://github.com/aristus/sweet-justice 
+WWW: http://carlos.bueno.org/2010/04/sweet-justice.html
+
+
+[demo]({{page.title}}-demo.md)
