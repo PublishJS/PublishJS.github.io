@@ -4,7 +4,7 @@ title: Projects
 category-list: [hyphenation, typography, epub, interactive, charts]
 ---
  <div class='nav'>
-    <a href='/'>Blog</a> <a href='/projects'>projects</a>
+     [/](Blog) [projects](projects)
 </div>
 
 <p class="message">
