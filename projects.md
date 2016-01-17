@@ -3,9 +3,7 @@ layout: page
 title: Projects
 category-list: [hyphenation, typography, epub, interactive, charts]
 ---
- <div class='nav'>
      [/](Blog) [projects](projects)
-</div>
 
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
