@@ -14,4 +14,4 @@ Code: https://github.com/aristus/sweet-justice
 WWW: http://carlos.bueno.org/2010/04/sweet-justice.html
 
 
-[demo](../projects/{{page.title}}-demo.md)
+[demo]({{page.url}}-demo.md)
